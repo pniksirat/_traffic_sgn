@@ -10,7 +10,7 @@ The detailed writeup of the project is availible.
 Project specifications, the project will require: 
 * the Ipython notebook with the code
 * the code exported as an html file
-* a writeup report either as a markdown 
+* a writeup report as a markdown 
 
 
 The Project
